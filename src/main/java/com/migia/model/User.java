@@ -33,7 +33,7 @@ public class User {
 
     private boolean isActive;
 
-    private Role role;
+    private String role;
 
 
 
